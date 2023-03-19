@@ -3,4 +3,4 @@
 
 # 상세
 ## 사용 기술 및 환경
-'Java 11','Spring Boot','JPA(Hibernate)','Swagger','MySQL'
+`Java 11`,`Spring Boot`,`JPA(Hibernate)`,`Swagger`,`MySQL`
