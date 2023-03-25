@@ -3,9 +3,15 @@
 
 # 상세
 ## 사용 기술 및 환경
-`Java 11`,`Spring Boot`,`JPA(Hibernate)`,`Swagger`,`MySQL`
+`Java 11`
+`Spring Boot`
+`Spring Security`
+`JPA(Hibernate)`
+`Swagger`
+`Jenkins`
+`MySQL`
 
-# Life Cycle
+## Life Cycle
 ![KakaoTalk_Photo_2023-03-25-14-03-30](https://user-images.githubusercontent.com/63723145/227697366-22618a27-c325-4e63-aeec-daad627bf49b.jpeg)
 - 회원 가입 / 로그인을 한다.
   - 일반 유저와 판매자를 구분한다.
@@ -17,7 +23,7 @@
 - 결제한다.
 - 사용자는 상품에 대해서 피드백한다.
 
-# 기능정의
+## 기능정의
 - 회원 가입 / 로그인을 한다.
   - 가입된 유저의 권한을 구분할 수 있다.
   
@@ -47,15 +53,15 @@
   - 구매한 상품에 대해서만 리뷰 작성이 가능하다.
   - 상품의 별점을 추가할수 있다.
   
-# 어플리케이션 아키텍쳐 스케치
+## 어플리케이션 아키텍쳐 스케치
 ![KakaoTalk_Photo_2023-03-25-15-26-24](https://user-images.githubusercontent.com/63723145/227700848-5df4b3da-c6c5-4c83-88f5-036832bc8be8.jpeg)
 
 
-# 배포
+## 배포
 <img width="680" alt="be" src="https://user-images.githubusercontent.com/63723145/227700741-edf759f7-2f53-470c-a435-fea484d72b26.png">
 
 - GitHub Action과 젠킨스를 활용하여 배포를 진행한다.
 
-# WBS
+## WBS
 - https://trello.com/b/did1peQK/mini-commerce
 
