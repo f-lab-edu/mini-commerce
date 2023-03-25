@@ -49,6 +49,8 @@
 
 - GitHub Action과 젠킨스를 활용하여 배포를 진행한다.
 
+# WBS
+- https://trello.com/b/did1peQK/mini-commerce
 
 # mini-commerce
 미니 커머스 서비스
