@@ -1,3 +1,10 @@
+# mini-commerce
+미니 커머스 서비스
+
+# 상세
+## 사용 기술 및 환경
+`Java 11`,`Spring Boot`,`JPA(Hibernate)`,`Swagger`,`MySQL`
+
 # Life Cycle
 ![KakaoTalk_Photo_2023-03-25-14-03-30](https://user-images.githubusercontent.com/63723145/227697366-22618a27-c325-4e63-aeec-daad627bf49b.jpeg)
 - 회원 가입 / 로그인을 한다.
@@ -52,9 +59,3 @@
 # WBS
 - https://trello.com/b/did1peQK/mini-commerce
 
-# mini-commerce
-미니 커머스 서비스
-
-# 상세
-## 사용 기술 및 환경
-`Java 11`,`Spring Boot`,`JPA(Hibernate)`,`Swagger`,`MySQL`
