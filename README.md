@@ -65,3 +65,6 @@
 ## WBS
 - https://trello.com/b/did1peQK/mini-commerce
 
+## Swagger
+- http://localhost:8080/rest/swagger-ui/index.html
+
